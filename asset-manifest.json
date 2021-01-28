@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/blobls/static/js/app.4dca94b7.chunk.js",
-    "app.js.map": "/blobls/static/js/app.4dca94b7.chunk.js.map",
-    "runtime~app.js": "/blobls/static/js/runtime~app.3220f4da.js",
-    "runtime~app.js.map": "/blobls/static/js/runtime~app.3220f4da.js.map",
-    "static/js/2.8ca0e45a.chunk.js": "/blobls/static/js/2.8ca0e45a.chunk.js",
-    "static/js/2.8ca0e45a.chunk.js.map": "/blobls/static/js/2.8ca0e45a.chunk.js.map",
-    "favicon-16.png": "/blobls/favicon-16.png",
-    "favicon-32.png": "/blobls/favicon-32.png",
-    "favicon.ico": "/blobls/favicon.ico",
-    "index.html": "/blobls/index.html",
-    "manifest.json": "/blobls/manifest.json",
-    "serve.json": "/blobls/serve.json",
-    "static/js/2.8ca0e45a.chunk.js.LICENSE.txt": "/blobls/static/js/2.8ca0e45a.chunk.js.LICENSE.txt"
+    "app.js": "/blobs/static/js/app.a0e67574.chunk.js",
+    "app.js.map": "/blobs/static/js/app.a0e67574.chunk.js.map",
+    "runtime~app.js": "/blobs/static/js/runtime~app.86e2590e.js",
+    "runtime~app.js.map": "/blobs/static/js/runtime~app.86e2590e.js.map",
+    "static/js/2.022dde17.chunk.js": "/blobs/static/js/2.022dde17.chunk.js",
+    "static/js/2.022dde17.chunk.js.map": "/blobs/static/js/2.022dde17.chunk.js.map",
+    "favicon-16.png": "/blobs/favicon-16.png",
+    "favicon-32.png": "/blobs/favicon-32.png",
+    "favicon.ico": "/blobs/favicon.ico",
+    "index.html": "/blobs/index.html",
+    "manifest.json": "/blobs/manifest.json",
+    "serve.json": "/blobs/serve.json",
+    "static/js/2.022dde17.chunk.js.LICENSE.txt": "/blobs/static/js/2.022dde17.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.3220f4da.js",
-    "static/js/2.8ca0e45a.chunk.js",
-    "static/js/app.4dca94b7.chunk.js"
+    "static/js/runtime~app.86e2590e.js",
+    "static/js/2.022dde17.chunk.js",
+    "static/js/app.a0e67574.chunk.js"
   ]
 }
