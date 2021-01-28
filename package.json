@@ -1,5 +1,5 @@
 {
-  "homepage": "http://pgomezponce.github.io/blobls",
+  "homepage": "http://pgomezponce.github.io/blobs",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -23,7 +23,8 @@
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
-    "@babel/core": "~7.9.0"
+    "@babel/core": "~7.9.0",
+    "@expo/webpack-config": "^0.12.56"
   },
   "private": true
 }
